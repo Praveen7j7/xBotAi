@@ -6,8 +6,8 @@ import { Link } from 'react-router-dom'
 import AddCommentIcon from '@mui/icons-material/AddComment';
 import CloseIcon from '@mui/icons-material/Close';
 import React,{useState} from 'react'
-import Sidebar from './components/Sidebar/Sidebar'
-import Button from '@mui/material/Button';
+
+
 
 
 export default function Sidebar({ setChat, closeMenu }) {
